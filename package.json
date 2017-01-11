@@ -1,0 +1,9 @@
+{
+  "name": "blubeta_challenge",
+  "version": "1.0.0",
+  "description": "Blubeta front end challenge.",
+  "main": "index.js",
+  "repository": "git@github.com:veraalex97/bb-challenge.git",
+  "author": "Alex A. Vera",
+  "license": "MIT"
+}
