@@ -7,6 +7,8 @@
   "author": "Alex A. Vera",
   "license": "MIT",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "browser-sync": "^2.18.6",
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.0"
   }
 }
