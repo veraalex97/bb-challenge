@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Blubeta front end challenge.",
   "main": "index.js",
-  "repository": "git@github.com:veraalex97/bb-challenge.git",
+  "repository": "https://github.com/veraalex97/bb-challenge",
   "author": "Alex A. Vera",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
